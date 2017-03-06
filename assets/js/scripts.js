@@ -7,5 +7,6 @@ $(function(){
         
         $that.parent().find('li').removeClass('active');
         $that.addClass('active');
+        document.getElementById('screen-heading').innerHTML = $that.text();
     });
 })
