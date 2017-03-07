@@ -70,6 +70,10 @@ li:hover {
     padding-right: 0px !important;
 }
 
+.height-ten-percent {
+    height: 10%;
+}
+
 .zero-left-padding {
     padding-left: 0px !important;
 }
@@ -90,7 +94,7 @@ li:hover {
     left: -35px;
 }
 
-.none-list-style {
+.list-style-none {
     list-style: none;
 }
 
@@ -119,4 +123,8 @@ li:hover {
 
 .curved-borders {
     border-radius: 7px;
+}
+
+.width-ten-percent {
+    width: 10%;
 }
